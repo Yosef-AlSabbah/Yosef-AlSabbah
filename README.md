@@ -2,24 +2,29 @@
 
 # Hello 🌎, I'm Yousef M. Y. Al-Sabbah
 
-**Django Developer** | Past in Java Spring Boot, PHP, Flet | Passionate about building scalable apps.  
-I specialize in backend solutions using Django and DRF, delivering secure, scalable, and well-structured APIs. My focus is on developing innovative, clean, and maintainable backend systems.
+**Backend Developer** | Specialized in Async Programming, AI-Powered Solutions, and Advanced Search Algorithms  
+Passionate about building **secure, scalable, and highly performant backend systems**. I focus on **testing applications**, ensuring reliability, and delivering cutting-edge solutions for modern web services.
 
 ---
 
 ### 🔭 Current Work
-- Building robust Django REST Framework APIs for secure and scalable applications.
+- Developing Telegram bots with **Aiogram** and **aiohttp**.
+- Building secure asynchronous backends using **asyncio** and **async/await** paradigms.
+- Implementing advanced search algorithms (e.g., **trigram**, stemming) for intelligent data retrieval.
 
 ### 🌱 Currently Learning
-- Enhancing my expertise in **Celery**, **Django Channels**, and advanced **DRF** techniques.
+- Optimizing **Redis** and **RabbitMQ** for task queuing and caching.
+- Enhancing expertise in **PostgreSQL** for complex database operations.
+- Exploring advanced techniques in **application testing** to ensure security and reliability.
 
 ### 💬 Ask Me About
-- **Backend Development**: Django, DRF, JWT Authentication  
-- **Past Experiences**: Java Spring Boot, PHP (Laravel), and API design  
-- **DevOps**: Docker, PostgreSQL, GitHub Actions  
+- **Backend Development**: Async programming, Redis, PostgreSQL  
+- **Search Algorithms**: Trigram, stemming, and intelligent search systems  
+- **DevOps**: Docker, Kubernetes, RabbitMQ  
+- **Testing**: Application security, reliability, and stress testing  
 
 ### ⚡ Fun Fact
-- I love debugging APIs more than writing them! 🚀
+- Debugging and testing are my favorite parts of the development process! 🚀
 
 ---
 
@@ -55,11 +60,11 @@ I specialize in backend solutions using Django and DRF, delivering secure, scala
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=django,python,spring,fastapi,nodejs,express,nginx"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,fastapi,rabbitmq,redis,nginx"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react"/></td>
+        <td style="font-weight: bold; padding-right: 10px;">Async Programming:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Database:</td>
@@ -75,11 +80,11 @@ I specialize in backend solutions using Django and DRF, delivering secure, scala
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=celery,rabbitmq"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=celery,aiogram"/></td>
     </tr>
 </table>
 
 ---
 
 **[Yosef M. Y. Al-Sabbah](https://github.com/Yosef-AlSabbah)**  
-_Date: 26/11/2024_
+_Date: 01/06/2025_
