@@ -1,30 +1,51 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-# Hello 🌎, I'm Yousef M. Y. Al-Sabbah
+# Hello 🌍, I'm Yousef M. Y. Al-Sabbah
 
-**Backend Developer** | Specialized in Async Programming, AI-Powered Solutions, and Advanced Search Algorithms  
-Passionate about building **secure, scalable, and highly performant backend systems**. I focus on **testing applications**, ensuring reliability, and delivering cutting-edge solutions for modern web services.
+**Django Developer** specialized in **Django REST Framework (DRF)** | Expert in Scalable APIs, Redis Caching, and Asynchronous Task Queues  
+
+I build **robust and production-ready backend systems** using **Django & DRF**, with deep integration of:
+
+- ⚙️ **Redis** for caching and performance optimization  
+- ⏱️ **Celery** for background and scheduled tasks  
+- 🐘 **PostgreSQL** for reliable, advanced relational data modeling  
+- 🔍 **Intelligent search algorithms** like trigram similarity and stemming for flexible, accurate data retrieval  
+
+I focus on **clean architecture**, automated **testing**, and **async programming** where needed to deliver secure, scalable APIs for modern applications.
 
 ---
 
 ### 🔭 Current Work
-- Developing Telegram bots with **Aiogram** and **aiohttp**.
-- Building secure asynchronous backends using **asyncio** and **async/await** paradigms.
-- Implementing advanced search algorithms (e.g., **trigram**, stemming) for intelligent data retrieval.
+- Developing production-ready APIs with **Django REST Framework**.
+- Designing async tasks and background jobs with **Celery + Redis**.
+- Building Telegram bots backed by Django APIs using **Aiogram** and **aiohttp**.
+- Integrating search features using **trigram algorithms**, **stemming**, and intelligent filtering.
 
 ### 🌱 Currently Learning
-- Optimizing **Redis** and **RabbitMQ** for task queuing and caching.
-- Enhancing expertise in **PostgreSQL** for complex database operations.
-- Exploring advanced techniques in **application testing** to ensure security and reliability.
+- Mastering advanced **Redis** patterns for caching and task queues.
+- Optimizing **PostgreSQL** queries and performance for large-scale data.
+- Improving app security and **automated testing** coverage (unit, integration, and stress testing).
 
 ### 💬 Ask Me About
-- **Backend Development**: Async programming, Redis, PostgreSQL  
-- **Search Algorithms**: Trigram, stemming, and intelligent search systems  
-- **DevOps**: Docker, Kubernetes, RabbitMQ  
-- **Testing**: Application security, reliability, and stress testing  
+- **Django / DRF**: Custom permissions, viewsets, serializers, throttling, and versioning  
+- **Async Python**: asyncio, aiohttp, Aiogram bots  
+- **DevOps**: Docker, GitHub Actions, RabbitMQ  
+- **Advanced Search**: PostgreSQL full-text, trigram similarity, search ranking
 
 ### ⚡ Fun Fact
-- Debugging and testing are my favorite parts of the development process! 🚀
+- I treat **testing** as the most exciting part of building backend services 🚀
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **1st Place – Gaza Region**, **Hebron CodeJam (HCJ 2025)**  
+  Led the Islamic University of Gaza’s team to **first place among universities in Gaza Strip** in the **Hebron CodeJam 2025** competition held at Hebron University, with participation from **40+ student teams** across Palestine.  
+  - 🧠 Placed **4th nationwide**, showcasing strong problem-solving and algorithmic skills.  
+  - 👥 Team Members: Yousef M. Y. Al-Sabbah *(Team Leader)*, Ahmad Al-Khatib, Yahya Al-Sharafa  
+  - 🧑‍🏫 Supervised by Dr. Ashraf Younis Mughari  
+  - 📅 Date: April 24, 2025  
+  - 📎 [University Article (Arabic)](https://www.iugaza.edu.ps/p31834/)
 
 ---
 
@@ -60,11 +81,11 @@ Passionate about building **secure, scalable, and highly performant backend syst
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,fastapi,rabbitmq,redis,nginx"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,django,fastapi,celery,redis,nginx"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Async Programming:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,js"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Database:</td>
@@ -72,19 +93,16 @@ Passionate about building **secure, scalable, and highly performant backend syst
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,githubactions"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Version Control:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
     </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=celery,aiogram"/></td>
-    </tr>
 </table>
+
 
 ---
 
-**[Yosef M. Y. Al-Sabbah](https://github.com/Yosef-AlSabbah)**  
-_Date: 01/06/2025_
+**[Yousef M. Y. Al-Sabbah](https://github.com/Yosef-AlSabbah)**  
+_Date: 20/06/2025_
